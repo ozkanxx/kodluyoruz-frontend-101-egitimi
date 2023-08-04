@@ -1,0 +1,61 @@
+
+/*5. ders */
+
+/* class -> . nokta konularak başlanıyor. .text-red{} */
+/* id -> #id-bilgisi {}*/
+h1,h2,h3,h4,h5,h6{
+    color: #787878; 
+}
+
+h1{
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#three-article{
+    font-size: 40px;
+}
+
+.text-red{
+    color: red;
+}
+
+.fs-14{
+    font-size: 14px;
+}
+.fs-20{
+    font-size: 20px;
+}
+.fs-30{
+    font-size: 30px;
+}
+
+
+/*
+Açıklama satırı bu şekilde c#daki gibi
+
+body{
+    background-color: black;
+    color: white;
+    font-family: sans-serif, Times, serif;
+}
+
+h2 {
+    color: red;
+    font-size: 75px;
+    text-transform:  uppercase;
+}
+
+p{
+    color: brown;
+    //text-transform:  uppercase;
+    font-size: 20px;
+}
+
+ul{
+    color: blue;
+}
+*/
